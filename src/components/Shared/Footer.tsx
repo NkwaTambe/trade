@@ -17,8 +17,10 @@ const Footer: React.FC = () => {
               </span>
             </a>
             <p className="mt-4 text-gray-500 dark:text-gray-400">
-              JudeXpert Trading Academy offers top-notch training in trading strategies, 
-             <br></br>market analysis, and investment techniques. Empowering traders for success!
+              JudeXpert Trading Academy offers top-notch training in trading
+              strategies,
+              <br></br>market analysis, and investment techniques. Empowering
+              traders for success!
             </p>
           </div>
           <div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
@@ -81,7 +83,10 @@ const Footer: React.FC = () => {
           </h2>
           <p className="text-gray-500 dark:text-gray-400 text-center">
             Have questions? Reach out to us at{" "}
-            <a href="mailto:support@judexpert.com" className="text-blue-500 underline">
+            <a
+              href="mailto:support@judexpert.com"
+              className="text-blue-500 underline"
+            >
               support@judexpert.com
             </a>{" "}
             or call +237 654-70-40-27
@@ -102,7 +107,10 @@ const Footer: React.FC = () => {
             . All Rights Reserved.
           </span>
           <div className="flex mt-4 sm:justify-center sm:mt-0">
-            <a href="#" className="text-gray-500 hover:text-gray-900 dark:hover:text-white ms-5">
+            <a
+              href="#"
+              className="text-gray-500 hover:text-gray-900 dark:hover:text-white ms-5"
+            >
               <svg
                 className="w-4 h-4"
                 aria-hidden="true"

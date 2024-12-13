@@ -6,12 +6,15 @@ const Home: React.FC = () => {
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
       {/* Hero Section */}
       <section className="bg-blue-500 text-white py-20 w-full text-center">
-        <h1 className="text-5xl font-extrabold mb-4">Welcome to JudeXpert Trading Academy</h1>
-        <p className="text-lg mb-6">Learn how to trade, receive signals, and join our thriving community.</p>
+        <h1 className="text-5xl font-extrabold mb-4">
+          Welcome to JudeXpert Trading Academy
+        </h1>
+        <p className="text-lg mb-6">
+          Learn how to trade, receive signals, and join our thriving community.
+        </p>
         <Link
           to="/get-started"
           className="bg-white text-blue-500 font-bold py-2 px-6 rounded shadow hover:bg-gray-200"
-          
         >
           Get Started
         </Link>
