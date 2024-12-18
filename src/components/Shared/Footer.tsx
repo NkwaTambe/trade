@@ -92,7 +92,7 @@ const Footer: React.FC = () => {
             or call +237 654-70-40-27
           </p>
           <img
-            src="./public/trade.jpg"
+            src="/trade.jpg"
             alt="Trading illustration"
             className="mt-6 rounded-md shadow-lg"
           />
