@@ -1,6 +1,6 @@
 {
   "name": "judexpert_trading_academy",
-  "homepage": "https://NkwaTambe.github.io/trade",
+  "homepage": "https://NkwaTambe.github.io/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,7 +13,7 @@
     "ts:check": "tsc --noEmit",
     "test:unit": "vitest",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build" 
+    "deploy": "gh-pages -d dist" 
   },
   "dependencies": {
     "@react-oauth/google": "^0.12.1",
